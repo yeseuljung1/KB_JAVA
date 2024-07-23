@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CLI-framework.iml" filepath="$PROJECT_DIR$/CLI-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/V0/V0.iml" filepath="$PROJECT_DIR$/V0/V0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/V1/V1.iml" filepath="$PROJECT_DIR$/V1/V1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/V2/V2.iml" filepath="$PROJECT_DIR$/V2/V2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/V3/V3.iml" filepath="$PROJECT_DIR$/V3/V3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/V4/V4.iml" filepath="$PROJECT_DIR$/V4/V4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/V4.main.iml" filepath="$PROJECT_DIR$/.idea/modules/V4.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/V4.test.iml" filepath="$PROJECT_DIR$/.idea/modules/V4.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/V5/V5.iml" filepath="$PROJECT_DIR$/V5/V5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/V6/V6.iml" filepath="$PROJECT_DIR$/V6/V6.iml" />
+    </modules>
+  </component>
+</project>
